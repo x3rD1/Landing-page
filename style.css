@@ -173,7 +173,8 @@ h2 {
 }
 
 .sign-up-container .button {
-    border: 3px solid white;
+    border-color: white;
+    border-width: 3px;
 }
 
 .footer {
